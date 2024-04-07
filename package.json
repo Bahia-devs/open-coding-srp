@@ -1,0 +1,22 @@
+{
+  "name": "open-coding-srp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Bahia-devs/open-coding-srp.git",
+  "author": "Levy Santiago <levyssantiago@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^2.2.2",
+    "@types/node": "^20.12.5",
+    "tsx": "^4.7.2",
+    "typescript": "^5.4.4"
+  },
+  "dependencies": {
+    "fastify": "^4.26.2",
+    "fastify-type-provider-zod": "^1.1.9",
+    "zod": "^3.22.4"
+  }
+}

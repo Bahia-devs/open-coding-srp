@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+
+# build
+dist/
+
+# locks
+yarn.lock
+package-lock.json
