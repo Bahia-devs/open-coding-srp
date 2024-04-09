@@ -11,7 +11,7 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:3333/users/aa154d47-a412-43e3-af5a-7e332300ba49
+GET http://localhost:3333/users/e9d42a1e-13cd-45ad-ba2e-9a572a33d190
 Content-Type: application/json
 
 ###
